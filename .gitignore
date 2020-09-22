@@ -130,4 +130,5 @@ dmypy.json
 
 # QFR
 .DS_Store
+docs
 
